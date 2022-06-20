@@ -1,0 +1,15 @@
+
+lien pour javax: http://www.java2s.com/Code/Jar/j/Downloadjavaxjar.htm
+lien pour servlet api: http://www.java2s.com/Code/Jar/s/Downloadservletapijar.htm
+
+
+
+
+
+TO DO 
+
+- passer les données à une autre page 
+- ajouter la methode inscription dans la classe UserDAO 
+- ajouter le formulaire d'inscription 
+- ajouter la servlet d'inscription
+
